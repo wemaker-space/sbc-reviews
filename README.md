@@ -54,4 +54,4 @@ I'm considering crowning certain SBCs with awards every year, like "Fastest stor
 
 ## Author
 
-This repository is maintained by [Jeff Geerling](https://www.jeffgeerling.com).
+This repository is maintained by Jin.
