@@ -1,14 +1,11 @@
 # SBC Reviews
 
-Jeff Geerling's SBC (Single-Board Computer) review and benchmarking data repo.
+Jin's SBC (Single-Board Computer) review and benchmarking data repo. (Inspired from Jeff Geerling Review repo)
 
-There are many like it, but this one is mine.
 
 ## Motivation
 
 I test a _lot_ of SBCs from Raspberry Pi, Radxa, Orange Pi, Pine64, ODROID, ASUS, and more.
-
-Until recently, I would compile all my data in a single project folder and/or [blog post](https://www.jeffgeerling.com/tags/sbc), and maybe feature a few specific benchmarks in a video on [my YouTube channel](https://www.youtube.com/c/JeffGeerling).
 
 But I decided I'd rather have a public repository with all the test data and review notes for all the SBCs I use and test.
 
