@@ -10,5 +10,5 @@
 10. Power usage is around 1.5 watt idle, 4 watt 100% load.
 
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/111105136/231384215-23bc5b21-51bc-43bf-8d1a-03d7328e54d4.png">
-![image](https://user-images.githubusercontent.com/111105136/231392226-9f08bd26-edde-402f-b78f-6655668a6a79.png)
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/111105136/231392226-9f08bd26-edde-402f-b78f-6655668a6a79.png">
 
